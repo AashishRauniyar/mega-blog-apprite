@@ -5,3 +5,7 @@ Packaged Used:
 
 Configured database and collection in appwrite
 created .env file
+
+-------------------------------------------------------
+
+Created auth service in appwrite
