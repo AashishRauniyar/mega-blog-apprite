@@ -15,3 +15,8 @@ Created auth service in appwrite
 
 
 created config.js for database and file operations
+
+
+-------------------------------------------------------
+
+started making UI
